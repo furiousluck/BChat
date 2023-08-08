@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BChat</string>
+    <string name="device_name">Device Name</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="no_name">No Name</string>
+    <string name="unknown">Unknown</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="available_devices">Available Devices</string>
+    <string name="rename_device">Rename device</string>
+    <string name="cant_connect_to_not_paired_device">Cannot connect to not paired device</string>
+    <string name="joining_the_chat">Joining the chat…</string>
+    <string name="send_message">Send message…</string>
+    <string name="waiting_for_the_other_user_to_join">Waiting for the other user to join…</string>
+    <string name="has_disconnected_from_chat">has disconnected from chat."</string>
+    <string name="exit_chat">Exit Chat?</string>
+    <string name="exit_chat_description">Are you sure you want to exit the chat?</string>
+    <string name ="delete_all_messages">Delete All Messages?</string>
+    <string name="delete_all_messages_description"> Are you sure you want to delete all messages in this conversation? </string>
+    <string name="confirm">Confirm</string>
+    <string name="messages">Messages</string>
+    <string name="cancel">Cancel</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="connected">Connected</string>
+    <string name="server_closed">Server closed, try again later…</string>
+    <string name="permission_error">Missing permission error</string>
+    <string name="error_timeout">Timeout…</string>
+    <string name="other_nearby_devices_can_see_this_name">Other nearby devices can see this name.</string>
+    <string name="invisibility_mode">Invisibility Mode 🥷🏿</string>
+    <string name="discoverability">Discoverability</string>
+    <string name="stop_scan">Stop Scan</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="start_server">Start Server</string>
+    <string name="bluetooth_denied">Unable to proceed without Bluetooth permission.</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="info">Info</string>
+    <string name="forget_device">Forget Device</string>
+</resources>

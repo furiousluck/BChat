@@ -1,7 +1,5 @@
 # BChat - Android Bluetooth Chat Application
 
-**Note: BChat is currently a work in progress, and Bluetooth Low Energy (BLE) support is actively being developed.**
-
 BChat is an Android application that enables users to send text messages and images to other paired devices over Bluetooth. The app is built using Kotlin and utilizes Jetpack Compose for the user interface, Kotlin Flows for asynchronous data streaming, and Coroutines for handling concurrent tasks.
 
 ## Features
